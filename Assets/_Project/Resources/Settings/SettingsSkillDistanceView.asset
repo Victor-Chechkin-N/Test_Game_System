@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822eff00e40fb0548896007a00c29793, type: 3}
+  m_Name: SettingsSkillDistanceView
+  m_EditorClassIdentifier: 
+  controllerDistanceViewWave: {fileID: -6275736984741443932, guid: 22844cd39d4c8ef40bbaaaff211c7fef,
+    type: 3}
+  waveSettings:
+    moveSpeed: 1.5
+    createWaveDelay: 0.75
+    segments: 10

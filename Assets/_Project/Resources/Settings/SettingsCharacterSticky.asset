@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01f010432fa856641a240aa287b442ef, type: 3}
+  m_Name: SettingsCharacterSticky
+  m_EditorClassIdentifier: 
+  moveSettings:
+    blendSpeed: 10
+    angularSpeed: 120
+    acceleration: 8
+    moveSpeedDefault: 4.5
+    moveSpeedFightMode: 3.5
+  skillUseRadiusSettings:
+    radius: 8
+    detectionAngle: 30
+  fightModeSettings:
+    enemiesInRadius: 10
+  skills: 0a000000
+  materialContainers:
+  - tTeam: 10
+    materialDefault:
+    - {fileID: 2100000, guid: 05da74ef0c36cbe44b165cd9e042e5b5, type: 2}
+    materialTarget:
+    - {fileID: 2100000, guid: ec7a40c9400680142832ca4f3d9317da, type: 2}
+  - tTeam: 20
+    materialDefault:
+    - {fileID: 2100000, guid: 853e388df292f124593f58c9c1b4324d, type: 2}
+    materialTarget:
+    - {fileID: 2100000, guid: 6d70ff1fb8f159e46b5e240ba8a2980f, type: 2}
+  controllerCharacterSticky: {fileID: 3269237408667361627, guid: e87a65d41cec355469ad2242831f97ae,
+    type: 3}

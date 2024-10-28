@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 873cf4c5953824b4d925a533f50e102d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: sticky:Head
+  - first:
+      1: 100004
+    second: sticky:HeadTopEnd
+  - first:
+      1: 100006
+    second: sticky:Hips
+  - first:
+      1: 100008
+    second: sticky:LeftArm
+  - first:
+      1: 100010
+    second: sticky:LeftFoot
+  - first:
+      1: 100012
+    second: sticky:LeftForeArm
+  - first:
+      1: 100014
+    second: sticky:LeftHand
+  - first:
+      1: 100016
+    second: sticky:LeftLeg
+  - first:
+      1: 100018
+    second: sticky:LeftShoulder
+  - first:
+      1: 100020
+    second: sticky:LeftToeBase
+  - first:
+      1: 100022
+    second: sticky:LeftToeEnd
+  - first:
+      1: 100024
+    second: sticky:LeftUpLeg
+  - first:
+      1: 100026
+    second: sticky:MainModel
+  - first:
+      1: 100028
+    second: sticky:Neck
+  - first:
+      1: 100030
+    second: sticky:RightArm
+  - first:
+      1: 100032
+    second: sticky:RightFoot
+  - first:
+      1: 100034
+    second: sticky:RightForeArm
+  - first:
+      1: 100036
+    second: sticky:RightHand
+  - first:
+      1: 100038
+    second: sticky:RightLeg
+  - first:
+      1: 100040
+    second: sticky:RightShoulder
+  - first:
+      1: 100042
+    second: sticky:RightToeBase
+  - first:
+      1: 100044
+    second: sticky:RightToeEnd
+  - first:
+      1: 100046
+    second: sticky:RightUpLeg
+  - first:
+      1: 100048
+    second: sticky:Root
+  - first:
+      1: 100050
+    second: sticky:Spine
+  - first:
+      1: 100052
+    second: sticky:Spine1
+  - first:
+      1: 100054
+    second: sticky:Spine2
+  - first:
+      1: 100056
+    second: sticky:SpineSticky
+  - first:
+      1: 100058
+    second: sticky:Sticky_lf_hand_jnt
+  - first:
+      1: 100060
+    second: sticky:Sticky_lf_index_a_jnt
+  - first:
+      1: 100062
+    second: sticky:Sticky_lf_index_b_jnt
+  - first:
+      1: 100064
+    second: sticky:Sticky_lf_index_c_jnt
+  - first:
+      1: 100066
+    second: sticky:Sticky_lf_index_d_jnt
+  - first:
+      1: 100068
+    second: sticky:Sticky_lf_pinky_a_jnt
+  - first:
+      1: 100070
+    second: sticky:Sticky_lf_pinky_b_jnt
+  - first:
+      1: 100072
+    second: sticky:Sticky_lf_pinky_c_jnt
+  - first:
+      1: 100074
+    second: sticky:Sticky_lf_pinky_d_jnt
+  - first:
+      1: 100076
+    second: sticky:Sticky_lf_pinkyCup_jnt
+  - first:
+      1: 100078
+    second: sticky:Sticky_lf_thumb_a_jnt
+  - first:
+      1: 100080
+    second: sticky:Sticky_lf_thumb_b_jnt
+  - first:
+      1: 100082
+    second: sticky:Sticky_lf_thumb_c_jnt
+  - first:
+      1: 100084
+    second: sticky:Sticky_lf_thumb_d_jnt
+  - first:
+      1: 100086
+    second: sticky:Sticky_rt_hand_jnt
+  - first:
+      1: 100088
+    second: sticky:Sticky_rt_index_a_jnt
+  - first:
+      1: 100090
+    second: sticky:Sticky_rt_index_b_jnt
+  - first:
+      1: 100092
+    second: sticky:Sticky_rt_index_c_jnt
+  - first:
+      1: 100094
+    second: sticky:Sticky_rt_index_d_jnt
+  - first:
+      1: 100096
+    second: sticky:Sticky_rt_pinky_a_jnt
+  - first:
+      1: 100098
+    second: sticky:Sticky_rt_pinky_b_jnt
+  - first:
+      1: 100100
+    second: sticky:Sticky_rt_pinky_c_jnt
+  - first:
+      1: 100102
+    second: sticky:Sticky_rt_pinky_d_jnt
+  - first:
+      1: 100104
+    second: sticky:Sticky_rt_pinkyCup_jnt
+  - first:
+      1: 100106
+    second: sticky:Sticky_rt_thumb_a_jnt
+  - first:
+      1: 100108
+    second: sticky:Sticky_rt_thumb_b_jnt
+  - first:
+      1: 100110
+    second: sticky:Sticky_rt_thumb_c_jnt
+  - first:
+      1: 100112
+    second: sticky:Sticky_rt_thumb_d_jnt
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: sticky:Head
+  - first:
+      4: 400004
+    second: sticky:HeadTopEnd
+  - first:
+      4: 400006
+    second: sticky:Hips
+  - first:
+      4: 400008
+    second: sticky:LeftArm
+  - first:
+      4: 400010
+    second: sticky:LeftFoot
+  - first:
+      4: 400012
+    second: sticky:LeftForeArm
+  - first:
+      4: 400014
+    second: sticky:LeftHand
+  - first:
+      4: 400016
+    second: sticky:LeftLeg
+  - first:
+      4: 400018
+    second: sticky:LeftShoulder
+  - first:
+      4: 400020
+    second: sticky:LeftToeBase
+  - first:
+      4: 400022
+    second: sticky:LeftToeEnd
+  - first:
+      4: 400024
+    second: sticky:LeftUpLeg
+  - first:
+      4: 400026
+    second: sticky:MainModel
+  - first:
+      4: 400028
+    second: sticky:Neck
+  - first:
+      4: 400030
+    second: sticky:RightArm
+  - first:
+      4: 400032
+    second: sticky:RightFoot
+  - first:
+      4: 400034
+    second: sticky:RightForeArm
+  - first:
+      4: 400036
+    second: sticky:RightHand
+  - first:
+      4: 400038
+    second: sticky:RightLeg
+  - first:
+      4: 400040
+    second: sticky:RightShoulder
+  - first:
+      4: 400042
+    second: sticky:RightToeBase
+  - first:
+      4: 400044
+    second: sticky:RightToeEnd
+  - first:
+      4: 400046
+    second: sticky:RightUpLeg
+  - first:
+      4: 400048
+    second: sticky:Root
+  - first:
+      4: 400050
+    second: sticky:Spine
+  - first:
+      4: 400052
+    second: sticky:Spine1
+  - first:
+      4: 400054
+    second: sticky:Spine2
+  - first:
+      4: 400056
+    second: sticky:SpineSticky
+  - first:
+      4: 400058
+    second: sticky:Sticky_lf_hand_jnt
+  - first:
+      4: 400060
+    second: sticky:Sticky_lf_index_a_jnt
+  - first:
+      4: 400062
+    second: sticky:Sticky_lf_index_b_jnt
+  - first:
+      4: 400064
+    second: sticky:Sticky_lf_index_c_jnt
+  - first:
+      4: 400066
+    second: sticky:Sticky_lf_index_d_jnt
+  - first:
+      4: 400068
+    second: sticky:Sticky_lf_pinky_a_jnt
+  - first:
+      4: 400070
+    second: sticky:Sticky_lf_pinky_b_jnt
+  - first:
+      4: 400072
+    second: sticky:Sticky_lf_pinky_c_jnt
+  - first:
+      4: 400074
+    second: sticky:Sticky_lf_pinky_d_jnt
+  - first:
+      4: 400076
+    second: sticky:Sticky_lf_pinkyCup_jnt
+  - first:
+      4: 400078
+    second: sticky:Sticky_lf_thumb_a_jnt
+  - first:
+      4: 400080
+    second: sticky:Sticky_lf_thumb_b_jnt
+  - first:
+      4: 400082
+    second: sticky:Sticky_lf_thumb_c_jnt
+  - first:
+      4: 400084
+    second: sticky:Sticky_lf_thumb_d_jnt
+  - first:
+      4: 400086
+    second: sticky:Sticky_rt_hand_jnt
+  - first:
+      4: 400088
+    second: sticky:Sticky_rt_index_a_jnt
+  - first:
+      4: 400090
+    second: sticky:Sticky_rt_index_b_jnt
+  - first:
+      4: 400092
+    second: sticky:Sticky_rt_index_c_jnt
+  - first:
+      4: 400094
+    second: sticky:Sticky_rt_index_d_jnt
+  - first:
+      4: 400096
+    second: sticky:Sticky_rt_pinky_a_jnt
+  - first:
+      4: 400098
+    second: sticky:Sticky_rt_pinky_b_jnt
+  - first:
+      4: 400100
+    second: sticky:Sticky_rt_pinky_c_jnt
+  - first:
+      4: 400102
+    second: sticky:Sticky_rt_pinky_d_jnt
+  - first:
+      4: 400104
+    second: sticky:Sticky_rt_pinkyCup_jnt
+  - first:
+      4: 400106
+    second: sticky:Sticky_rt_thumb_a_jnt
+  - first:
+      4: 400108
+    second: sticky:Sticky_rt_thumb_b_jnt
+  - first:
+      4: 400110
+    second: sticky:Sticky_rt_thumb_c_jnt
+  - first:
+      4: 400112
+    second: sticky:Sticky_rt_thumb_d_jnt
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: sticky:MainModel
+  - first:
+      43: 4300002
+    second: MainModel
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: sticky:MainModel
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: sticky:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_hand_jnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_hand_jnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_thumb_a_jnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_thumb_b_jnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_thumb_c_jnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_index_a_jnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_index_b_jnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_index_c_jnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_pinkyCup_jnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_pinky_a_jnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_lf_pinky_b_jnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_thumb_a_jnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_thumb_b_jnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_thumb_c_jnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_index_a_jnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_index_b_jnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_index_c_jnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_pinkyCup_jnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_pinky_a_jnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sticky:Sticky_rt_pinky_b_jnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: sticky4(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:MainModel
+      parentName: 
+      position: {x: 0, y: 0.8221064, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Root
+      parentName: 
+      position: {x: 0, y: 0.8221064, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Hips
+      parentName: 
+      position: {x: -7.4561657e-19, y: 0.098527074, z: -0.0011381544}
+      rotation: {x: 0.49429452, y: -0.50564116, z: -0.49429452, w: 0.50564116}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Spine
+      parentName: 
+      position: {x: -0.01387714, y: 1.398881e-16, z: 6.5519415e-19}
+      rotation: {x: 0, y: 0, z: 0.010865467, w: 0.999941}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Spine1
+      parentName: 
+      position: {x: -0.16701278, y: -4.196643e-16, z: -2.6689424e-17}
+      rotation: {x: 0.9999933, y: -0.0036588816, z: -1.8489118e-18, w: 5.0531815e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Spine2
+      parentName: 
+      position: {x: -0.19951788, y: 1.0991208e-15, z: 1.4849445e-17}
+      rotation: {x: 0, y: 0, z: 0.073591895, w: 0.99728847}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:SpineSticky
+      parentName: 
+      position: {x: -0.12349491, y: 7.9936054e-17, z: 2.500305e-17}
+      rotation: {x: 0, y: 0, z: 0.0039950493, w: 0.999992}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Neck
+      parentName: 
+      position: {x: -0.1153711, y: -1.3056222e-15, z: -1.04512906e-17}
+      rotation: {x: 0.5178579, y: -0.4814802, z: 0.5178579, w: 0.4814802}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Head
+      parentName: 
+      position: {x: -9.4764954e-18, y: 0.08025044, z: -2.1316282e-16}
+      rotation: {x: -0.043081123, y: 0, z: -0, w: 0.9990716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:HeadTopEnd
+      parentName: 
+      position: {x: -2.2622222e-16, y: 0.35604873, z: -2.1316282e-16}
+      rotation: {x: -0.052367184, y: 0, z: -0, w: 0.9986279}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftShoulder
+      parentName: 
+      position: {x: -0.02683162, y: 0.0031863446, z: -0.07728763}
+      rotation: {x: 0.4715981, y: -0.43827924, z: 0.40304184, w: 0.6504336}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftArm
+      parentName: 
+      position: {x: -0.06439563, y: -2.1316282e-16, z: 0}
+      rotation: {x: 0.049989, y: -0.098544426, z: 0.16494429, w: 0.98009366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftForeArm
+      parentName: 
+      position: {x: -0.35247815, y: -4.2632563e-16, z: 3.330669e-17}
+      rotation: {x: -0.0013993162, y: 0.054236643, z: -0.015266631, w: 0.9984104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftHand
+      parentName: 
+      position: {x: -0.2523544, y: 2.1316282e-16, z: -1.3322676e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_hand_jnt
+      parentName: 
+      position: {x: -0, y: 2.1316282e-16, z: 0}
+      rotation: {x: 0, y: 0.00000013620785, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_thumb_a_jnt
+      parentName: 
+      position: {x: -0.03576605, y: 0.0016070767, z: 0.037378393}
+      rotation: {x: -0.6043721, y: 0.3416902, z: 0.24598642, w: 0.6763674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_thumb_b_jnt
+      parentName: 
+      position: {x: -0.023181342, y: 2.1316282e-16, z: -8.5265126e-16}
+      rotation: {x: -0.3436949, y: -0.025334455, z: -0.012831422, w: 0.93865186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_thumb_c_jnt
+      parentName: 
+      position: {x: -0.03600984, y: -5.3290704e-17, z: 8.5265126e-16}
+      rotation: {x: 0.14201431, y: 0.035539713, z: 0.007380194, w: 0.98919886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_thumb_d_jnt
+      parentName: 
+      position: {x: -0.041579895, y: -3.1974422e-16, z: -2.1316282e-16}
+      rotation: {x: 0.68341464, y: -0.1815059, z: -0.37014228, w: 0.6024904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_index_a_jnt
+      parentName: 
+      position: {x: -0.09210981, y: 0.006062892, z: 0.0389617}
+      rotation: {x: -0.6985801, y: 0.060559426, z: -0.005816568, w: 0.7129408}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_index_b_jnt
+      parentName: 
+      position: {x: -0.06249349, y: 5.3290704e-17, z: -0.007744746}
+      rotation: {x: -0.022134406, y: -0.06050312, z: -0.00023108801, w: 0.99792254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_index_c_jnt
+      parentName: 
+      position: {x: -0.04449182, y: 5.3290704e-17, z: -6.3948843e-16}
+      rotation: {x: 0.000527232, y: 0.001442029, z: 0.00003673503, w: 0.9999988}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_index_d_jnt
+      parentName: 
+      position: {x: -0.034850035, y: -1.5987211e-16, z: 0}
+      rotation: {x: 0.7002847, y: -0.09798629, z: -0.14846556, w: 0.69134504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_pinkyCup_jnt
+      parentName: 
+      position: {x: -0.045074716, y: -0.0006534876, z: -0.018566167}
+      rotation: {x: -0.7069916, y: 0.01276325, z: 0.01276325, w: 0.7069916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_pinky_a_jnt
+      parentName: 
+      position: {x: -0.055855244, y: -7.9936054e-17, z: -3.0000086e-10}
+      rotation: {x: 0.009409603, y: 0.02290612, z: 0.033328116, w: 0.99913764}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_pinky_b_jnt
+      parentName: 
+      position: {x: -0.048187975, y: 1.0658141e-16, z: 0}
+      rotation: {x: -0.018675623, y: -0.040688097, z: 0.00015886972, w: 0.99899733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_pinky_c_jnt
+      parentName: 
+      position: {x: -0.04765862, y: -5.3290704e-17, z: 0}
+      rotation: {x: -0.0016677505, y: -0.005243004, z: -0.000086289874, w: 0.99998486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_lf_pinky_d_jnt
+      parentName: 
+      position: {x: -0.04183285, y: -5.3290704e-17, z: -2.1316282e-16}
+      rotation: {x: 0.70167136, y: -0.08750592, z: -0.12924513, w: 0.6951947}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightShoulder
+      parentName: 
+      position: {x: -0.026830573, y: 0.0031862198, z: 0.0772875}
+      rotation: {x: 0.43827987, y: 0.47159758, z: 0.65043324, w: -0.40304235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightArm
+      parentName: 
+      position: {x: 0.064395815, y: -0.00000015659332, z: 0.000000028959672}
+      rotation: {x: 0.04998914, y: -0.09854439, z: 0.16494349, w: 0.9800937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightForeArm
+      parentName: 
+      position: {x: 0.3524784, y: 2.1316282e-16, z: -0.000000016071983}
+      rotation: {x: -0.0013992831, y: 0.05423653, z: -0.015266878, w: 0.99841046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightHand
+      parentName: 
+      position: {x: 0.25235507, y: 4.2632563e-16, z: 0.000000025911993}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_hand_jnt
+      parentName: 
+      position: {x: -1.0658141e-16, y: 0, z: -1.3322676e-17}
+      rotation: {x: 0, y: 0.00000006154421, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_thumb_a_jnt
+      parentName: 
+      position: {x: 0.0357656, y: -0.0016079999, z: -0.037378255}
+      rotation: {x: -0.60437125, y: 0.34169596, z: 0.2459876, w: 0.67636484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_thumb_b_jnt
+      parentName: 
+      position: {x: 0.023181405, y: 0.00000005257461, z: 0.00000039813995}
+      rotation: {x: -0.34369412, y: -0.025349125, z: -0.012837457, w: 0.93865174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_thumb_c_jnt
+      parentName: 
+      position: {x: 0.036009878, y: 0.00000016639893, z: -0.00000040234013}
+      rotation: {x: 0.14201422, y: 0.0355385, z: 0.0073820134, w: 0.989199}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_thumb_d_jnt
+      parentName: 
+      position: {x: 0.041579627, y: -0.000000067123615, z: -0.00000076546735}
+      rotation: {x: 0.68341464, y: -0.18150592, z: -0.37014228, w: 0.6024904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_index_a_jnt
+      parentName: 
+      position: {x: 0.092109285, y: -0.006063, z: -0.03896182}
+      rotation: {x: -0.7005383, y: 0.053817715, z: 0.0077001667, w: 0.711541}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_index_b_jnt
+      parentName: 
+      position: {x: 0.062494446, y: -0.0000006113457, z: 0.0036108517}
+      rotation: {x: -0.022134406, y: -0.060503118, z: -0.000231088, w: 0.99792254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_index_c_jnt
+      parentName: 
+      position: {x: 0.044491064, y: 0.000000537445, z: -0.0000024448607}
+      rotation: {x: 0.000527232, y: 0.001442029, z: 0.00003673503, w: 0.9999988}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_index_d_jnt
+      parentName: 
+      position: {x: 0.034848735, y: 0.00000043946258, z: 0.0000017245129}
+      rotation: {x: 0.7002847, y: -0.09798628, z: -0.14846554, w: 0.69134504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_pinkyCup_jnt
+      parentName: 
+      position: {x: 0.04507525, y: 0.000654, z: 0.018510288}
+      rotation: {x: -0.7069916, y: 0.01276325, z: 0.01276325, w: 0.7069916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_pinky_a_jnt
+      parentName: 
+      position: {x: 0.055853557, y: 0.00000043733053, z: 0}
+      rotation: {x: 0.009409294, y: 0.022897637, z: 0.033324808, w: 0.99913794}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_pinky_b_jnt
+      parentName: 
+      position: {x: 0.048187327, y: 0.00000025746672, z: -0.0000015322528}
+      rotation: {x: -0.018675616, y: -0.040655848, z: 0.00016148193, w: 0.9989987}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_pinky_c_jnt
+      parentName: 
+      position: {x: 0.04766044, y: -0.00000060785493, z: 0.0000012691536}
+      rotation: {x: -0.0016677505, y: -0.005243004, z: -0.000086289874, w: 0.99998486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:Sticky_rt_pinky_d_jnt
+      parentName: 
+      position: {x: 0.041833125, y: -0.00000012273345, z: -0.0000013201936}
+      rotation: {x: 0.70167136, y: -0.08750592, z: -0.12924513, w: 0.6951947}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftUpLeg
+      parentName: 
+      position: {x: 0.06402559, y: -0.0025196578, z: 0.06783406}
+      rotation: {x: -0.018225934, y: -0.17378914, z: 0.98458886, w: 0.0070643537}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftLeg
+      parentName: 
+      position: {x: -0.39197457, y: -0.04501579, z: -0.0051680407}
+      rotation: {x: 0.16618375, y: -0.0005968961, z: -0.076069, w: 0.9831562}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftFoot
+      parentName: 
+      position: {x: -0.3978793, y: -9.992007e-17, z: -1.4654943e-16}
+      rotation: {x: -0.07862825, y: 0.045039084, z: 0.64535743, w: 0.7584872}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftToeBase
+      parentName: 
+      position: {x: -0.15459473, y: -5.062617e-16, z: -0.0072065173}
+      rotation: {x: 0, y: 0, z: 0.13373902, w: 0.9910166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:LeftToeEnd
+      parentName: 
+      position: {x: -0.07447626, y: -3.4722223e-16, z: 1.0658141e-16}
+      rotation: {x: 0.7601133, y: 0.014787714, z: -0.6494995, w: 0.012635765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightUpLeg
+      parentName: 
+      position: {x: 0.06402559, y: -0.0025196578, z: -0.06783406}
+      rotation: {x: 0.10269705, y: 0.9792438, z: -0.17473775, w: -0.0012537307}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightLeg
+      parentName: 
+      position: {x: -0.37586707, y: 0.11997667, z: -0.0051680407}
+      rotation: {x: -0.15684158, y: 0.05493737, z: 0.2181715, w: 0.9616568}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightFoot
+      parentName: 
+      position: {x: -0.35173652, y: 0.18598214, z: 1.9984014e-16}
+      rotation: {x: 0.049975153, y: -0.075587064, z: 0.30895016, w: 0.9467518}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightToeBase
+      parentName: 
+      position: {x: 0.12632482, y: 0.089115486, z: -0.0072065173}
+      rotation: {x: 0, y: 0, z: 0.13373902, w: 0.9910166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sticky:RightToeEnd
+      parentName: 
+      position: {x: 0.07425092, y: 0.0057890527, z: 2.1316282e-16}
+      rotation: {x: 0.7601133, y: 0.014787714, z: 0.6494995, w: -0.012635765}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.03
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

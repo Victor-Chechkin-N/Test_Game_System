@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc6b4efd9d2bfd648af80e3fd470b449, type: 3}
+  m_Name: SettingsCharacterCyberSoldier
+  m_EditorClassIdentifier: 
+  moveSettings:
+    blendSpeed: 10
+    angularSpeed: 120
+    acceleration: 8
+    moveSpeedDefault: 4.5
+    moveSpeedFightMode: 3.5
+  skillUseRadiusSettings:
+    radius: 8
+    detectionAngle: 30
+  fightModeSettings:
+    enemiesInRadius: 10
+  skills: 0a000000
+  materialContainers:
+  - tTeam: 10
+    materialDefault:
+    - {fileID: 2100000, guid: 846e2e46fd2426d4c9a3fdfd0ab801ac, type: 2}
+    materialTarget:
+    - {fileID: 2100000, guid: a5da9864460506b4a9b3d726f8b376b9, type: 2}
+  - tTeam: 20
+    materialDefault:
+    - {fileID: 2100000, guid: 3f48414cc35da9446a3874c9564698ab, type: 2}
+    materialTarget:
+    - {fileID: 2100000, guid: 35e169a929fd8a34abd158496a3bedcd, type: 2}
+  controllerCharacterCyberSoldier: {fileID: 7055903542722470186, guid: ef37a15782c52b64b92c6492979766a9,
+    type: 3}
